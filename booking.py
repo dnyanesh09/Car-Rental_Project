@@ -34,6 +34,7 @@ if __name__=='__main__':
     cont=True
     # c.car_add()
     # c.car_display()
+    print("Trying to commit")
 
 
     while cont:
